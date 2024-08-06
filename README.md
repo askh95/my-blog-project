@@ -1,4 +1,4 @@
-Вот ссылка на данный проект: https://nextjs-eix9e0dmu-askhs-projects-eaaf2d24.vercel.app/
+Вот ссылка на данный проект: https://nextjs-eix9e0dmu-askhs-projects-eaaf2d24.vercel.app/](https://my-blog-project-murex.vercel.app/
 
 
 
